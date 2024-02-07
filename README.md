@@ -1,7 +1,8 @@
 ## Password Generator
 
 This is a simple yet powerful Password Generator web application designed to create secure and customizable passwords.
-How to Use
+
+[**Test the Generator**](https://street-magician.github.io/PassWordGenerator/)
 
 #### Get started:
 
